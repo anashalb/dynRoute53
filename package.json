@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/anashalb/Font-to-Swift"
+    "url": "https://github.com/anashalb/dynRoute53"
   },
   "description": "Dynamic DNS for Route 53",
   "bin": {
